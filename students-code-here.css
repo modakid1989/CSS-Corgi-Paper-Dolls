@@ -3,20 +3,24 @@
     top: 255px;
     right: 155px;
 }
-.bowtie {
+.bandana {
     position: absolute;
-    top: 145px;
-    left: 95px;
+    left: 100px;
+    bottom: 85px;
 }
+
+
 .pawprint {
     position: fixed;
     top: 45px;
     left: 65px;
 }
+
 .luna {
-    position: sticky;
-    left: 0;
+    position: absolute;
 }
+
 .top-hat {
-    z-index: 5;
+    position: relative;
+    z-index: 1;
 }
